@@ -1,5 +1,6 @@
 # Привет, я Дарья! 👋
 <p align="center">
+  Мои навыки на данный момент:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,css,html,js,figma,scss,vue" />
   </a>
