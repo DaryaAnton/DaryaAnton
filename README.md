@@ -16,7 +16,10 @@
   <br />
 </div>
 <br />
+
+
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DaryaZagi)
+
 
 #### 🧡 Мои личные качества:
 * Ответственность.
