@@ -3,7 +3,6 @@
 <!--   <div id="badges">
     https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge
   </div> -->
-  <div>
     [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  </div>
 </div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
