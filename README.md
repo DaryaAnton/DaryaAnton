@@ -4,3 +4,4 @@
     https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge
   </div>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
